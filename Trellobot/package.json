@@ -1,0 +1,20 @@
+{
+  "name": "trellobot",
+  "version": "0.0.1",
+  "main": "main.js",
+  "author": "Jordan Holland",
+  "repository": {
+    "type": "git"
+  },
+  "keywords": [
+    "Slack",
+    "Bot",
+    "slackbot",
+    "example"
+  ],
+  "dependencies": {
+    "botkit": "^0.2.2",
+    "request": "^2.81.0",
+    "file-system": "^2.2.2"
+  }
+}
